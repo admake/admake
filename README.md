@@ -1,4 +1,4 @@
-# [#mtsai](https://intema.ai) 🐙 frontend ✨ lead 🥷🏻
+# [mts.ai](https://mts.ai) MTS.AI 🥷 team-lead-artist 🤡 software engineer 🧖‍♂️ BMSTU
 
 <!--
 **admake/admake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
