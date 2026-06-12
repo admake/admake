@@ -1,12 +1,12 @@
 # admake
 
-- 👨‍🎨 management artist
-- ⌨️ neovim rizzler
-- 📷 zoom main character
-- 🏐 software engineer
-- 👷‍♂️ BMSTU
-- 🥷 [mts.ai](https://mts.ai)
-- 🎺 я люблю звездопады
+## 👨‍🎨 management artist
+## ⌨️ neovim rizzler
+## 📷 zoom main character
+## 🏐 software engineer
+## 👷‍♂️ BMSTU
+## 🥷 [mts.ai](https://mts.ai)
+## 🎺 я люблю звездопады
 
 <!--
 **admake/admake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
